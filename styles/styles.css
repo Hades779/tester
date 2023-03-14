@@ -1,0 +1,112 @@
+body{
+    border: 3px solid rgb(255, 0, 0);
+    border-radius: 6px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+header{
+    border: 3px solid rgb(255, 98, 0);
+    margin: 5px;
+    border-radius: 6px;
+
+    padding: 8px;
+}
+h1{
+    border: 3px dashed rgb(255, 247, 0);
+    margin: 5px;
+    border-radius: 6px;
+
+    padding: 8px;
+}
+h2{
+    border: 3px dashed rgb(255, 122, 5);
+    margin: 5px;
+    border-radius: 6px;
+
+    padding: 8px;
+}
+nav{
+    border: 3px solid rgb(0, 255, 0);
+    margin: 5px;
+    border-radius: 6px;
+
+    display: flex;
+}
+nav div{
+    border: 3px solid rgb(223, 52, 52);
+    margin: 5px;
+    border-radius: 6px;
+    padding: 8px;
+    width:30%;
+}
+
+main{
+    border: 3px solid rgb(243, 113, 255);
+    margin: 10px;
+    border-radius: 6px;
+    display: flex;
+}
+
+aside{
+    border: 3px solid rgb(50, 255, 122);
+    margin: 5px;
+    border-radius: 6px;
+    width: 30%;
+}
+aside div{
+    border: 3px solid rgb(34, 151, 16);
+    margin: 5px;
+    padding: 3px;
+}
+
+
+article{ /*Contenido principal*/
+    border: 3px solid rgb(162, 9, 9);
+    margin: 5px;
+    border-radius: 6px;
+    width: 70%;
+}
+article ol{
+    border: 3px dashed rgb(95, 95, 223);
+    margin: 5px;
+    border-radius: 6px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+article ol li{
+    border: 3px dashed rgb(75, 233, 236);
+    margin: 2%;
+    padding: 30px;
+    border-radius: 6px;
+}
+section{
+    border: 3px dashed rgb(19, 19, 184);
+    margin: 5px;
+    border-radius: 6px;
+}
+
+
+footer{
+    border: 3px solid rgb(106, 0, 255);
+    margin: 5px;
+    border-radius: 6px;
+}
+img{ border: 3px solid rgb(106, 0, 255);
+    margin: 5px;
+    width: 80%;
+
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+    color: deeppink;
+}
+ol{
+    font-family: 'Macondo', cursive;
+}
+ul{
+    font-family: 'Macondo', cursive;
+}
